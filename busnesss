@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Business</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1em;
+        }
+
+        section {
+            padding: 20px;
+            text-align: center;
+        }
+
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1em;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <h1>Welcome to My Business</h1>
+    </header>
+
+    <section>
+        <h2>About Us</h2>
+        <p>We are a business dedicated to providing quality products/services.</p>
+    </section>
+
+    <section>
+        <h2>Contact</h2>
+        <p>Email: info@mybusiness.com<br>Phone: (123) 456-7890</p>
+    </section>
+
+    <footer>
+        &copy; 2023 My Business
+    </footer>
+
+</body>
+
+</html>
