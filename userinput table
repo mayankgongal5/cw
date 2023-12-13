@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Dropdown List Example</title>
+</head>
+
+<body>
+
+    <h2>Choose Your Department:</h2>
+
+    <form action="#" method="post">
+        <label for="department">Select Department:</label>
+        <select id="department" name="department">
+            <option value="hr">Human Resources</option>
+            <option value="it">Information Technology</option>
+            <option value="sales">Sales</option>
+            <option value="marketing">Marketing</option>
+        </select>
+
+        <br>
+
+        <input type="submit" value="Submit">
+    </form>
+
+</body>
+
+</html>
