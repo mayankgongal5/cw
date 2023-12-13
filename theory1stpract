@@ -1,0 +1,14 @@
+1. **Introduction to HTML:**
+   HTML (Hypertext Markup Language) is a standard markup language used to create and design web pages. It provides a structure for content on the World Wide Web, defining elements and their relationships.
+
+2. **Tags of HTML:**
+   HTML uses tags to define elements within a document. Tags are enclosed in angle brackets and come in pairs, typically opening with `<tag>` and closing with `</tag>`. Examples include `<head>`, `<body>`, and `<p>`.
+
+3. **Website:**
+   A website is a collection of related web pages accessible through a common domain or URL. It serves as a digital platform for presenting information, media, and interactive elements.
+
+4. **Webpage:**
+   A webpage is a single document within a website, comprising HTML content that browsers render for users. Webpages can contain text, images, links, and multimedia elements.
+
+5. **Webserver:**
+   A web server is software that hosts and serves web content to users upon request. It handles HTTP requests, processes server-side scripts, and communicates with web browsers, delivering web pages and resources across the internet.
